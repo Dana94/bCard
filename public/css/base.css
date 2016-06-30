@@ -21,3 +21,10 @@ img{
 	max-width: 150px;
 	border-radius: 50%;
 }
+a, 
+a:visited{ 
+	color: #ecf0f1;
+}
+a:hover{
+	color:#2980b9;
+}
